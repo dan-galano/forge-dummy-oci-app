@@ -1,0 +1,5 @@
+{
+  "name": "forge-dummy-oci-app",
+  "private": true,
+  "dependencies": { "express": "^4.19.0" }
+}
