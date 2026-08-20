@@ -51,7 +51,7 @@ name: Forge Stage
 
 on:
   push:
-    branches: [main]
+    branches: [forge/main]
   # workflow_dispatch is REQUIRED on this template and is not decoration.
   # Task 4.8 uses it as the no-pending-edits fallback: an import whose stage
   # injection produced no commit (every file already byte-identical) fires no
